@@ -1,0 +1,12 @@
+This is the read me for Carson Holland's LSIS - Linux System Information Script
+
+This script is designed to run LOCALLY on a Linux system and generate an .XML file of the system's information.
+
+
+EXAMPLE: `python3 linux_system_information_script.py`
+
+At the moment, no arguments needed.
+
+REQUIREMENTS: Linux OS
+
+Note to self: Syntax is very convuluted ... findall regex method is really bad, could've used find, and then .match().
